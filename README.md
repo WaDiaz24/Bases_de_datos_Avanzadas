@@ -1,21 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ddd;
-        }
-    </style>
 </head>
 <body>
     <h1>Base de Datos de Fútbol en MongoDB</h1>
