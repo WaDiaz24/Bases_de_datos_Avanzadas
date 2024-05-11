@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "663fe2128f67429492fb42f7"
+  },
+  "id": 1,
+  "nombre": "Bayern Munich",
+  "ciudad": "Múnich",
+  "pais": "Alemania"
+},
+{
+  "_id": {
+    "$oid": "663fe2128f67429492fb42f8"
+  },
+  "id": 2,
+  "nombre": "Real Madrid",
+  "ciudad": "Madrid",
+  "pais": "España"
+},
+{
+  "_id": {
+    "$oid": "663fe2128f67429492fb42f9"
+  },
+  "id": 3,
+  "nombre": "FC Barcelona",
+  "ciudad": "Barcelona",
+  "pais": "España"
+},
+{
+  "_id": {
+    "$oid": "663fe2128f67429492fb42fa"
+  },
+  "id": 4,
+  "nombre": "Manchester United",
+  "ciudad": "Manchester",
+  "pais": "Inglaterra"
+},
+{
+  "_id": {
+    "$oid": "663fe2128f67429492fb42fb"
+  },
+  "id": 5,
+  "nombre": "Juventus",
+  "ciudad": "Turín",
+  "pais": "Italia"
+}]

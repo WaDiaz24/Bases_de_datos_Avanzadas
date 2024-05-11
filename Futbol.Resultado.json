@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "663fe4cf8f67429492fb4319"
+  },
+  "equipo_local": "Bayern Munich",
+  "goles_local": 2,
+  "equipo_visitante": "Real Madrid",
+  "goles_visitante": 1,
+  "ganador": "Bayern Munich",
+  "puntos_local": 3,
+  "puntos_visitante": 0
+},
+{
+  "_id": {
+    "$oid": "663fe4cf8f67429492fb431a"
+  },
+  "equipo_local": "Real Madrid",
+  "goles_local": 3,
+  "equipo_visitante": "FC Barcelona",
+  "goles_visitante": 2,
+  "ganador": "Real Madrid",
+  "puntos_local": 3,
+  "puntos_visitante": 0
+},
+{
+  "_id": {
+    "$oid": "663fe4cf8f67429492fb431b"
+  },
+  "equipo_local": "FC Barcelona",
+  "goles_local": 2,
+  "equipo_visitante": "Manchester United",
+  "goles_visitante": 2,
+  "ganador": "Empate",
+  "puntos_local": 1,
+  "puntos_visitante": 1
+},
+{
+  "_id": {
+    "$oid": "663fe4cf8f67429492fb431c"
+  },
+  "equipo_local": "Manchester United",
+  "goles_local": 1,
+  "equipo_visitante": "Juventus",
+  "goles_visitante": 3,
+  "ganador": "Juventus",
+  "puntos_local": 0,
+  "puntos_visitante": 3
+},
+{
+  "_id": {
+    "$oid": "663fe4cf8f67429492fb431d"
+  },
+  "equipo_local": "Juventus",
+  "goles_local": 0,
+  "equipo_visitante": "Bayern Munich",
+  "goles_visitante": 2,
+  "ganador": "Bayern Munich",
+  "puntos_local": 0,
+  "puntos_visitante": 3
+}]

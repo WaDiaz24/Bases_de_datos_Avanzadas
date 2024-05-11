@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "663fe2338f67429492fb42fe"
+  },
+  "id": 1,
+  "nombre": "Manuel",
+  "apellido": "Neuer",
+  "edad": 36,
+  "posicion": "Portero",
+  "nacionalidad": "Alemania",
+  "equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663fe2338f67429492fb42ff"
+  },
+  "id": 2,
+  "nombre": "Robert",
+  "apellido": "Lewandowski",
+  "edad": 33,
+  "posicion": "Delantero",
+  "nacionalidad": "Polonia",
+  "equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663fe2338f67429492fb4300"
+  },
+  "id": 3,
+  "nombre": "Thomas",
+  "apellido": "Müller",
+  "edad": 32,
+  "posicion": "Centrocampista",
+  "nacionalidad": "Alemania",
+  "equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663fe2338f67429492fb4301"
+  },
+  "id": 4,
+  "nombre": "Joshua",
+  "apellido": "Kimmich",
+  "edad": 27,
+  "posicion": "Centrocampista",
+  "nacionalidad": "Alemania",
+  "equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663fe2338f67429492fb4302"
+  },
+  "id": 5,
+  "nombre": "David",
+  "apellido": "Alaba",
+  "edad": 29,
+  "posicion": "Defensa",
+  "nacionalidad": "Austria",
+  "equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663fe2338f67429492fb4303"
+  },
+  "id": 6,
+  "nombre": "Sergio",
+  "apellido": "Ramos",
+  "edad": 36,
+  "posicion": "Defensa",
+  "nacionalidad": "España",
+  "equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663fe2338f67429492fb4304"
+  },
+  "id": 7,
+  "nombre": "Karim",
+  "apellido": "Benzema",
+  "edad": 34,
+  "posicion": "Delantero",
+  "nacionalidad": "Francia",
+  "equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663fe2338f67429492fb4305"
+  },
+  "id": 8,
+  "nombre": "Luka",
+  "apellido": "Modric",
+  "edad": 36,
+  "posicion": "Centrocampista",
+  "nacionalidad": "Croacia",
+  "equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663fe2338f67429492fb4306"
+  },
+  "id": 9,
+  "nombre": "Vinicius",
+  "apellido": "Junior",
+  "edad": 21,
+  "posicion": "Delantero",
+  "nacionalidad": "Brasil",
+  "equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663fe2338f67429492fb4307"
+  },
+  "id": 10,
+  "nombre": "Toni",
+  "apellido": "Kroos",
+  "edad": 32,
+  "posicion": "Centrocampista",
+  "nacionalidad": "Alemania",
+  "equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663fe2338f67429492fb4308"
+  },
+  "id": 11,
+  "nombre": "Thibaut",
+  "apellido": "Courtois",
+  "edad": 29,
+  "posicion": "Portero",
+  "nacionalidad": "Bélgica",
+  "equipo": "Real Madrid"
+}]

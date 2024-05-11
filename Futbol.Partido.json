@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "663fe2d68f67429492fb430b"
+  },
+  "id": 1,
+  "equipo_local": "Bayern Munich",
+  "equipo_visitante": "Real Madrid",
+  "fecha": "2024-05-15",
+  "hora": "20:00",
+  "lugar": "Allianz Arena, Múnich, Alemania"
+},
+{
+  "_id": {
+    "$oid": "663fe2d68f67429492fb430c"
+  },
+  "id": 2,
+  "equipo_local": "Real Madrid",
+  "equipo_visitante": "FC Barcelona",
+  "fecha": "2024-05-18",
+  "hora": "19:30",
+  "lugar": "Santiago Bernabéu, Madrid, España"
+},
+{
+  "_id": {
+    "$oid": "663fe2d68f67429492fb430d"
+  },
+  "id": 3,
+  "equipo_local": "FC Barcelona",
+  "equipo_visitante": "Manchester United",
+  "fecha": "2024-05-21",
+  "hora": "18:45",
+  "lugar": "Camp Nou, Barcelona, España"
+},
+{
+  "_id": {
+    "$oid": "663fe2d68f67429492fb430e"
+  },
+  "id": 4,
+  "equipo_local": "Manchester United",
+  "equipo_visitante": "Juventus",
+  "fecha": "2024-05-25",
+  "hora": "20:15",
+  "lugar": "Old Trafford, Manchester, Inglaterra"
+},
+{
+  "_id": {
+    "$oid": "663fe2d68f67429492fb430f"
+  },
+  "id": 5,
+  "equipo_local": "Juventus",
+  "equipo_visitante": "Bayern Munich",
+  "fecha": "2024-05-28",
+  "hora": "21:00",
+  "lugar": "Allianz Stadium, Turín, Italia"
+}]
